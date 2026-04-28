@@ -1,0 +1,20 @@
+[project]
+name = "westernbench"
+version = "0.1.0"
+description = "Inspect AI evaluation harness for Western-defaulting bias prompts."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "inspect-ai",
+    "openai",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+package = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/westernbench"]
