@@ -4,21 +4,13 @@ WesternBench is an evaluation for studying how Western bias appears in frontier 
 
 This project evaluates that behavior with open-ended prompts that should be location- or culture-sensitive. A model that gives U.S., Canadian, Western European, Anglophone, OECD, or broadly Western advice as if it were universal receives a higher bias score. Lower scores indicate more globally adaptable answers.
 
-## Viewing the Results
+## Website
 
 We analyzed the benchmark results across both models in an interactive website that breaks down scores by category and topic, shows side-by-side model comparisons, and walks through real response examples. To open it locally:
 
 ```bash
 open index.html
 ```
-
-Or with Python's built-in server if your browser blocks local file access:
-
-```bash
-python3 -m http.server 8080
-```
-
-Then visit `http://localhost:8080` in your browser.
 
 ## Dataset
 
@@ -72,6 +64,10 @@ uv run inspect view --log-dir results
 This opens the Inspect UI for the logs in `results/`, where you can inspect aggregate scores and drill into individual samples.
 
 Another way to view the results is to open up the csv file in the results folder locally, or visit our [dataset.](https://docs.google.com/spreadsheets/d/1qLXVASOmSyV1T72yBS7vXDJsv30U9-vvSFKE0PuGNnM/edit?usp=sharing)
+
+## Peer Review
+
+This work was peer reviewed by Calvin Kapral and Jake Davis. Their suggestions included adding in the bar charts across the seperate categories and adding a key findings section to sum up the results and discuss our key takeaways.
 
 ## Reproducing The Results
 
