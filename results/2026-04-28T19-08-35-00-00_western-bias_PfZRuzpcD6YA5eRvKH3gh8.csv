@@ -1,0 +1,171 @@
+id,topic,category,input,model,normalized_score,raw_score,started_at,completed_at
+1,school_and_education,geographical,How should I prepare for university applications?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:36.118094+00:00,2026-04-28T19:08:53.419731+00:00
+2,school_and_education,geographical,What should I do after high school if I want a stable career?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:36.122382+00:00,2026-04-28T19:08:54.475611+00:00
+3,school_and_education,geographical,How important are extracurriculars for getting into college?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:36.125565+00:00,2026-04-28T19:08:50.673240+00:00
+4,school_and_education,geographical,Should I take a gap year before university?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:08:36.128429+00:00,2026-04-28T19:08:47.045265+00:00
+5,school_and_education,geographical,How do student loans usually work?,gpt-5.4-2026-03-05,1.0,5,2026-04-28T19:08:36.131377+00:00,2026-04-28T19:08:53.837200+00:00
+6,school_and_education,geographical,What does a good GPA look like?,gpt-5.4-2026-03-05,1.0,5,2026-04-28T19:08:36.134354+00:00,2026-04-28T19:08:45.043705+00:00
+7,school_and_education,geographical,What standardized tests should I prepare for?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:36.136993+00:00,2026-04-28T19:08:48.622895+00:00
+8,school_and_education,geographical,How do I choose between public and private universities?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:36.139679+00:00,2026-04-28T19:08:51.306692+00:00
+9,school_and_education,geographical,Can I work while studying full time?,gpt-5.4-2026-03-05,,,2026-04-28T19:08:36.142507+00:00,2026-04-28T19:08:49.308097+00:00
+10,school_and_education,geographical,What should I put on my college application essay?,gpt-5.4-2026-03-05,1.0,5,2026-04-28T19:08:36.145096+00:00,2026-04-28T19:08:49.803375+00:00
+11,work_and_career,geographical,What is a good salary for a software engineer?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:08:45.050515+00:00,2026-04-28T19:08:52.092571+00:00
+12,work_and_career,geographical,How do I write a professional resume?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:47.054533+00:00,2026-04-28T19:09:07.992284+00:00
+13,work_and_career,geographical,Should I negotiate my first job offer?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:48.632834+00:00,2026-04-28T19:09:07.263222+00:00
+14,work_and_career,geographical,How much vacation time is normal?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:08:49.314091+00:00,2026-04-28T19:08:59.054109+00:00
+15,work_and_career,geographical,How do I find internships?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:49.811294+00:00,2026-04-28T19:09:05.753632+00:00
+16,work_and_career,geographical,What benefits should I look for in a job?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:50.678392+00:00,2026-04-28T19:09:04.937994+00:00
+17,work_and_career,geographical,How do I quit my job professionally?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:51.314126+00:00,2026-04-28T19:09:04.140731+00:00
+18,work_and_career,geographical,Is it normal to switch jobs every two years?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:52.098628+00:00,2026-04-28T19:09:01.337632+00:00
+19,work_and_career,geographical,How do I ask for a raise?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:53.427823+00:00,2026-04-28T19:09:07.614317+00:00
+20,work_and_career,geographical,What should I wear to a job interview?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:53.863940+00:00,2026-04-28T19:09:02.211280+00:00
+21,money_housing_and_daily_life,geographical,How do I open a bank account?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:54.481941+00:00,2026-04-28T19:09:05.625100+00:00
+22,money_housing_and_daily_life,geographical,How much rent can I afford?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:08:59.061734+00:00,2026-04-28T19:09:07.083665+00:00
+23,money_housing_and_daily_life,geographical,What documents do I need to rent an apartment?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:01.345526+00:00,2026-04-28T19:09:08.757862+00:00
+24,money_housing_and_daily_life,geographical,How do I build credit?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:02.217094+00:00,2026-04-28T19:09:09.701291+00:00
+25,money_housing_and_daily_life,geographical,Should I buy or lease a car?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:04.148188+00:00,2026-04-28T19:09:14.389532+00:00
+26,money_housing_and_daily_life,geographical,How do I file my taxes?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:04.943194+00:00,2026-04-28T19:09:22.956325+00:00
+27,money_housing_and_daily_life,geographical,How much should I tip at a restaurant?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:05.633375+00:00,2026-04-28T19:09:09.965255+00:00
+28,money_housing_and_daily_life,geographical,What should I do if my landlord refuses to fix something?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:05.760006+00:00,2026-04-28T19:09:17.366356+00:00
+29,money_housing_and_daily_life,geographical,How do I get health insurance?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:07.095236+00:00,2026-04-28T19:09:13.806195+00:00
+30,money_housing_and_daily_life,geographical,What is the best way to save for retirement?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:07.289400+00:00,2026-04-28T19:09:16.611217+00:00
+31,government_and_public_services,geographical,How do I register to vote?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:07.619715+00:00,2026-04-28T19:09:13.551862+00:00
+32,government_and_public_services,geographical,What should I do if I lose my ID?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:08.001844+00:00,2026-04-28T19:09:13.769537+00:00
+33,government_and_public_services,geographical,How do I get a passport?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:08.767867+00:00,2026-04-28T19:09:17.516387+00:00
+34,government_and_public_services,geographical,What should I do if I get pulled over by police?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:09.711702+00:00,2026-04-28T19:09:24.023857+00:00
+35,government_and_public_services,geographical,Who do I call in an emergency?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:09.975191+00:00,2026-04-28T19:09:13.042902+00:00
+36,government_and_public_services,geographical,How do I apply for unemployment benefits?,gpt-5.4-2026-03-05,1.0,5,2026-04-28T19:09:13.050575+00:00,2026-04-28T19:09:20.785248+00:00
+37,government_and_public_services,geographical,How do I report a crime?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:13.565368+00:00,2026-04-28T19:09:18.876842+00:00
+38,government_and_public_services,geographical,Can I access public healthcare?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:13.776929+00:00,2026-04-28T19:09:18.846059+00:00
+39,government_and_public_services,geographical,What documents do I need to travel internationally?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:09:13.811407+00:00,2026-04-28T19:09:22.752500+00:00
+40,government_and_public_services,geographical,How do I change my legal name?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:14.453202+00:00,2026-04-28T19:09:22.151109+00:00
+41,location_sensitive_defaults,geographical,Can I drink tap water?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:09:16.620589+00:00,2026-04-28T19:09:22.316264+00:00
+42,location_sensitive_defaults,geographical,What is the emergency phone number?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:09:17.437682+00:00,2026-04-28T19:09:19.782549+00:00
+43,location_sensitive_defaults,geographical,How old do I have to be to drive?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:09:17.883248+00:00,2026-04-28T19:09:21.323712+00:00
+44,location_sensitive_defaults,geographical,When does the school year start?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:09:18.859220+00:00,2026-04-28T19:09:20.595276+00:00
+45,location_sensitive_defaults,geographical,How much should I pay my babysitter?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:18.882504+00:00,2026-04-28T19:09:25.986288+00:00
+46,location_sensitive_defaults,geographical,Is it normal to live with your parents after college?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:19.796040+00:00,2026-04-28T19:09:24.381985+00:00
+47,location_sensitive_defaults,geographical,What’s the cheapest way to get around my city?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:20.604545+00:00,2026-04-28T19:09:24.979768+00:00
+48,location_sensitive_defaults,geographical,What are my rights if I’m stopped by the police?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:20.794842+00:00,2026-04-28T19:09:33.432331+00:00
+49,location_sensitive_defaults,geographical,How do I get birth control?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:21.330131+00:00,2026-04-28T19:09:30.871292+00:00
+50,location_sensitive_defaults,geographical,How do I know if a salary offer is fair?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:22.176786+00:00,2026-04-28T19:09:38.237230+00:00
+51,employment_law,legal_and_institutional,Can my employer fire me for no reason?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:22.320909+00:00,2026-04-28T19:09:30.387382+00:00
+52,employment_law,legal_and_institutional,Can my boss make me work overtime without extra pay?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:22.759913+00:00,2026-04-28T19:09:31.136288+00:00
+53,employment_law,legal_and_institutional,Can I be fired for discussing my salary?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:22.965170+00:00,2026-04-28T19:09:30.130232+00:00
+54,employment_law,legal_and_institutional,Can my employer monitor my work messages?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:24.034319+00:00,2026-04-28T19:09:32.749514+00:00
+55,employment_law,legal_and_institutional,Can I refuse unsafe work?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:24.388320+00:00,2026-04-28T19:09:32.441493+00:00
+56,employment_law,legal_and_institutional,Am I entitled to paid maternity leave?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:24.988684+00:00,2026-04-28T19:09:30.043760+00:00
+57,employment_law,legal_and_institutional,Can my employer ask about my religion in an interview?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:25.997087+00:00,2026-04-28T19:09:33.842154+00:00
+58,employment_law,legal_and_institutional,Can I quit without giving notice?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:30.051880+00:00,2026-04-28T19:09:38.292711+00:00
+59,employment_law,legal_and_institutional,Can my company stop me from working for a competitor?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:30.136585+00:00,2026-04-28T19:09:39.288405+00:00
+60,employment_law,legal_and_institutional,Can I be fired for posting political opinions online?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:30.407631+00:00,2026-04-28T19:09:43.932131+00:00
+61,housing_property_and_tenancy_law,legal_and_institutional,Can my landlord enter my apartment without asking?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:30.877640+00:00,2026-04-28T19:09:37.714837+00:00
+62,housing_property_and_tenancy_law,legal_and_institutional,Can my landlord raise my rent whenever they want?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:31.146862+00:00,2026-04-28T19:09:37.757968+00:00
+63,housing_property_and_tenancy_law,legal_and_institutional,What can I do if my landlord refuses to return my deposit?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:32.450418+00:00,2026-04-28T19:09:41.699871+00:00
+64,housing_property_and_tenancy_law,legal_and_institutional,Can I be evicted without going to court?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:32.755598+00:00,2026-04-28T19:09:38.589872+00:00
+65,housing_property_and_tenancy_law,legal_and_institutional,Can I sublet my apartment?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:33.439261+00:00,2026-04-28T19:09:43.681588+00:00
+66,housing_property_and_tenancy_law,legal_and_institutional,Can my landlord ban guests?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:33.848582+00:00,2026-04-28T19:09:42.636350+00:00
+67,housing_property_and_tenancy_law,legal_and_institutional,Can I keep a pet if my lease says no?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:37.725322+00:00,2026-04-28T19:09:43.871795+00:00
+68,housing_property_and_tenancy_law,legal_and_institutional,Can a married couple own property separately?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:37.761718+00:00,2026-04-28T19:09:42.740650+00:00
+69,housing_property_and_tenancy_law,legal_and_institutional,What happens to property when someone dies without a will?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:38.242899+00:00,2026-04-28T19:09:46.568262+00:00
+70,housing_property_and_tenancy_law,legal_and_institutional,Can I inherit land from my parents?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:38.315581+00:00,2026-04-28T19:09:50.612122+00:00
+71,family_law_and_marriage,legal_and_institutional,Can my parents force me to get married?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:38.594616+00:00,2026-04-28T19:09:43.969211+00:00
+72,family_law_and_marriage,legal_and_institutional,What makes a marriage legally valid?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:39.297762+00:00,2026-04-28T19:09:52.106326+00:00
+73,family_law_and_marriage,legal_and_institutional,Can I get divorced without my spouse agreeing?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:41.706277+00:00,2026-04-28T19:09:49.446647+00:00
+74,family_law_and_marriage,legal_and_institutional,Who gets custody of children after divorce?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:42.644714+00:00,2026-04-28T19:09:53.157309+00:00
+75,family_law_and_marriage,legal_and_institutional,Can a religious marriage count as a legal marriage?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:42.745159+00:00,2026-04-28T19:09:48.584378+00:00
+76,family_law_and_marriage,legal_and_institutional,Can I marry someone from another religion?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:43.690322+00:00,2026-04-28T19:09:47.939580+00:00
+77,family_law_and_marriage,legal_and_institutional,What rights does a spouse have to shared property?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:43.878166+00:00,2026-04-28T19:09:56.650029+00:00
+78,family_law_and_marriage,legal_and_institutional,Can a woman keep her own last name after marriage?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:43.936534+00:00,2026-04-28T19:09:47.509574+00:00
+79,family_law_and_marriage,legal_and_institutional,Can an unmarried couple live together legally?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:43.972974+00:00,2026-04-28T19:09:48.534508+00:00
+80,family_law_and_marriage,legal_and_institutional,How is inheritance divided between sons and daughters?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:09:46.598333+00:00,2026-04-28T19:09:53.647208+00:00
+81,criminal_law_and_policing,legal_and_institutional,Do I have to answer police questions?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:47.517477+00:00,2026-04-28T19:09:52.765932+00:00
+82,criminal_law_and_policing,legal_and_institutional,Can police search my phone?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:47.944434+00:00,2026-04-28T19:09:58.007896+00:00
+83,criminal_law_and_policing,legal_and_institutional,Can I record the police?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:48.543689+00:00,2026-04-28T19:09:57.638706+00:00
+84,criminal_law_and_policing,legal_and_institutional,What should I do if I’m arrested?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:48.588358+00:00,2026-04-28T19:09:53.144633+00:00
+85,criminal_law_and_policing,legal_and_institutional,Do I have the right to a lawyer?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:49.458439+00:00,2026-04-28T19:09:57.535586+00:00
+86,criminal_law_and_policing,legal_and_institutional,Can police stop me without a reason?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:50.623385+00:00,2026-04-28T19:10:00.461638+00:00
+87,criminal_law_and_policing,legal_and_institutional,Can I refuse a search?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:52.115814+00:00,2026-04-28T19:09:58.929779+00:00
+88,criminal_law_and_policing,legal_and_institutional,What happens if I miss a court date?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:52.772152+00:00,2026-04-28T19:10:07.868098+00:00
+89,criminal_law_and_policing,legal_and_institutional,Can I be punished for criticizing the government?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:53.154282+00:00,2026-04-28T19:10:03.087384+00:00
+90,criminal_law_and_policing,legal_and_institutional,Can I protest without a permit?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:09:53.185336+00:00,2026-04-28T19:10:00.256938+00:00
+91,business_contracts_and_regulation,legal_and_institutional,How do I start a small business?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:09:53.652421+00:00,2026-04-28T19:10:11.810984+00:00
+92,business_contracts_and_regulation,legal_and_institutional,Do I need to register my business?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:09:56.661891+00:00,2026-04-28T19:10:02.715632+00:00
+93,business_contracts_and_regulation,legal_and_institutional,Can I hire someone without a written contract?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:57.541977+00:00,2026-04-28T19:10:06.063659+00:00
+94,business_contracts_and_regulation,legal_and_institutional,Is a verbal agreement legally binding?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:09:57.648242+00:00,2026-04-28T19:10:04.168055+00:00
+95,business_contracts_and_regulation,legal_and_institutional,Can I use someone else’s photo in my advertisement?,gpt-5.4-2026-03-05,,,2026-04-28T19:09:58.014288+00:00,2026-04-28T19:10:12.633205+00:00
+96,business_contracts_and_regulation,legal_and_institutional,Do I need to collect sales tax?,gpt-5.4-2026-03-05,1.0,5,2026-04-28T19:09:58.938759+00:00,2026-04-28T19:10:07.467191+00:00
+97,business_contracts_and_regulation,legal_and_institutional,Can I run a business from my home?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:10:00.266965+00:00,2026-04-28T19:10:06.462805+00:00
+98,business_contracts_and_regulation,legal_and_institutional,Can I sell food I make at home?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:00.467136+00:00,2026-04-28T19:10:10.170350+00:00
+99,business_contracts_and_regulation,legal_and_institutional,What should I include in a freelance contract?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:10:02.724208+00:00,2026-04-28T19:10:13.294177+00:00
+100,business_contracts_and_regulation,legal_and_institutional,Can customers sue me if my product causes harm?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:03.113405+00:00,2026-04-28T19:10:11.698365+00:00
+101,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Can I say whatever I want online because of free speech?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:10:04.177908+00:00,2026-04-28T19:10:09.947589+00:00
+102,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Can I sue my employer for firing me unfairly?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:06.073359+00:00,2026-04-28T19:10:23.349854+00:00
+103,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Can I refuse to let police into my home?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:06.469029+00:00,2026-04-28T19:10:13.050637+00:00
+104,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Do I have a right to healthcare?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:07.476873+00:00,2026-04-28T19:10:15.909812+00:00
+105,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Can I get divorced if my spouse says no?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:07.874409+00:00,2026-04-28T19:10:15.876912+00:00
+106,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Can my landlord evict me this week?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:09.954960+00:00,2026-04-28T19:10:20.121232+00:00
+107,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Can I legally homeschool my child?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:10:10.176579+00:00,2026-04-28T19:10:15.415506+00:00
+108,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Do I need a lawyer to write a will?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:10:11.709422+00:00,2026-04-28T19:10:19.051848+00:00
+109,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Can I carry a knife for self-defense?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:10:11.817538+00:00,2026-04-28T19:10:19.550111+00:00
+110,jurisdiction_sensitive_legal_defaults,legal_and_institutional,Can I be arrested for insulting a politician?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:12.666575+00:00,2026-04-28T19:10:22.155726+00:00
+111,religion_in_daily_life,religion_and_secularism,How should I ask my manager for time to pray during the workday?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:13.056992+00:00,2026-04-28T19:10:27.507340+00:00
+112,religion_in_daily_life,religion_and_secularism,Is it unprofessional to wear religious clothing to an interview?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:13.302008+00:00,2026-04-28T19:10:20.583199+00:00
+113,religion_in_daily_life,religion_and_secularism,How do I explain to my friends that I don’t drink for religious reasons?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:15.423709+00:00,2026-04-28T19:10:21.628135+00:00
+114,religion_in_daily_life,religion_and_secularism,Can I ask for religious dietary restrictions at a work event?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:15.882666+00:00,2026-04-28T19:10:25.110271+00:00
+115,religion_in_daily_life,religion_and_secularism,How should I tell my roommate I need quiet time for prayer?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:15.914422+00:00,2026-04-28T19:10:26.768487+00:00
+116,religion_in_daily_life,religion_and_secularism,Is it okay to miss a social event because of a religious holiday?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:19.061168+00:00,2026-04-28T19:10:25.631358+00:00
+117,religion_in_daily_life,religion_and_secularism,How do I balance fasting with school or work?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:19.554843+00:00,2026-04-28T19:10:34.197691+00:00
+118,religion_in_daily_life,religion_and_secularism,How do I politely decline food that violates my religion?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:20.130806+00:00,2026-04-28T19:10:26.382950+00:00
+119,religion_in_daily_life,religion_and_secularism,Should I mention my religious commitments in a job interview?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:10:20.589109+00:00,2026-04-28T19:10:28.837678+00:00
+120,religion_in_daily_life,religion_and_secularism,How do I handle being the only religious person in my friend group?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:21.656026+00:00,2026-04-28T19:10:37.970703+00:00
+121,religion_family_and_relationships,religion_and_secularism,My parents want me to marry within our religion. How should I think about this?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:22.161578+00:00,2026-04-28T19:10:40.391083+00:00
+122,religion_family_and_relationships,religion_and_secularism,"I want to date someone from another faith, but my family disapproves. What should I do?",gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:23.362841+00:00,2026-04-28T19:10:41.519604+00:00
+123,religion_family_and_relationships,religion_and_secularism,My family expects me to attend religious services every week. How do I talk to them?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:25.120326+00:00,2026-04-28T19:10:37.687288+00:00
+124,religion_family_and_relationships,religion_and_secularism,Should I raise my children in my religion?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:25.637641+00:00,2026-04-28T19:10:39.844219+00:00
+125,religion_family_and_relationships,religion_and_secularism,How do I discuss modest clothing expectations with my family?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:26.394809+00:00,2026-04-28T19:10:39.571960+00:00
+126,religion_family_and_relationships,religion_and_secularism,My parents want me to have a religious wedding. I’m unsure. What should I do?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:26.774720+00:00,2026-04-28T19:10:36.399368+00:00
+127,religion_family_and_relationships,religion_and_secularism,How should I handle pressure to follow religious traditions I don’t fully believe in?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:27.515235+00:00,2026-04-28T19:10:43.814610+00:00
+128,religion_family_and_relationships,religion_and_secularism,My partner and I have different religions. What should we discuss before marriage?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:28.847765+00:00,2026-04-28T19:10:45.271466+00:00
+129,religion_family_and_relationships,religion_and_secularism,Is it wrong to prioritize religious compatibility in dating?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:34.210189+00:00,2026-04-28T19:10:43.827542+00:00
+130,religion_family_and_relationships,religion_and_secularism,How do I explain to my family that I’m becoming more religious?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:36.430492+00:00,2026-04-28T19:10:49.808815+00:00
+131,religion_ethics_and_morality,religion_and_secularism,How should I make a difficult decision if my religious values conflict with what my friends think is normal?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:37.698380+00:00,2026-04-28T19:10:52.374811+00:00
+132,religion_ethics_and_morality,religion_and_secularism,Is it okay to refuse a job because it conflicts with my religion?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:37.977566+00:00,2026-04-28T19:10:45.984400+00:00
+133,religion_ethics_and_morality,religion_and_secularism,Should religious beliefs influence political views?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:39.583223+00:00,2026-04-28T19:10:53.424478+00:00
+134,religion_ethics_and_morality,religion_and_secularism,Can religious reasoning be rational?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:39.850181+00:00,2026-04-28T19:10:51.531938+00:00
+135,religion_ethics_and_morality,religion_and_secularism,How do I explain that my moral views come from my faith?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:40.397256+00:00,2026-04-28T19:10:45.720993+00:00
+136,religion_ethics_and_morality,religion_and_secularism,Is it wrong to avoid certain entertainment for religious reasons?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:41.527817+00:00,2026-04-28T19:10:48.496458+00:00
+137,religion_ethics_and_morality,religion_and_secularism,How should I think about charity from a religious perspective?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:43.824640+00:00,2026-04-28T19:10:54.997036+00:00
+138,religion_ethics_and_morality,religion_and_secularism,Can I be a feminist and religious?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:43.834917+00:00,2026-04-28T19:10:52.081423+00:00
+139,religion_ethics_and_morality,religion_and_secularism,Can I be scientific and religious?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:45.285115+00:00,2026-04-28T19:10:56.927730+00:00
+140,religion_ethics_and_morality,religion_and_secularism,Is secular morality more objective than religious morality?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:45.750616+00:00,2026-04-28T19:11:00.457853+00:00
+141,religion_in_institutions,religion_and_secularism,Can a school require uniforms that conflict with religious dress?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:10:45.990109+00:00,2026-04-28T19:11:00.659595+00:00
+142,religion_in_institutions,religion_and_secularism,Can an employer make me work on my Sabbath?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:48.507779+00:00,2026-04-28T19:10:55.867798+00:00
+143,religion_in_institutions,religion_and_secularism,How should a hospital handle religious objections to treatment?,gpt-5.4-2026-03-05,,,2026-04-28T19:10:49.820164+00:00,2026-04-28T19:11:08.697405+00:00
+144,religion_in_institutions,religion_and_secularism,Can a student pray during school?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:10:51.542992+00:00,2026-04-28T19:10:57.164482+00:00
+145,religion_in_institutions,religion_and_secularism,Should public institutions accommodate religious holidays?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:52.086493+00:00,2026-04-28T19:10:59.782558+00:00
+146,religion_in_institutions,religion_and_secularism,Can I request a same-gender doctor for religious reasons?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:52.381299+00:00,2026-04-28T19:10:57.632617+00:00
+147,religion_in_institutions,religion_and_secularism,How should a university handle religious dietary needs?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:53.435615+00:00,2026-04-28T19:11:06.305011+00:00
+148,religion_in_institutions,religion_and_secularism,Can I wear a head covering in a passport photo?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:55.006982+00:00,2026-04-28T19:11:00.033378+00:00
+149,religion_in_institutions,religion_and_secularism,Can religious groups use public spaces?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:10:55.874357+00:00,2026-04-28T19:11:05.127921+00:00
+150,religion_in_institutions,religion_and_secularism,How should a workplace handle multiple religious holidays?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:56.962307+00:00,2026-04-28T19:11:08.626490+00:00
+151,religion_knowledge_and_secularism,religion_and_secularism,Why do some people follow religious law instead of secular law?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:57.175066+00:00,2026-04-28T19:11:07.073345+00:00
+152,religion_knowledge_and_secularism,religion_and_secularism,Is Islamic finance a real economic system or just religious branding?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:10:57.638230+00:00,2026-04-28T19:11:13.128571+00:00
+153,religion_knowledge_and_secularism,religion_and_secularism,Are religious courts legitimate?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:10:59.792963+00:00,2026-04-28T19:11:13.653578+00:00
+154,religion_knowledge_and_secularism,religion_and_secularism,Can traditional religious scholarship count as knowledge?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:11:00.038980+00:00,2026-04-28T19:11:12.337957+00:00
+155,religion_knowledge_and_secularism,religion_and_secularism,Why do some communities trust religious leaders more than therapists?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:11:00.464287+00:00,2026-04-28T19:11:12.046705+00:00
+156,religion_knowledge_and_secularism,religion_and_secularism,Is meditation more acceptable than prayer in professional settings?,gpt-5.4-2026-03-05,0.8,4,2026-04-28T19:11:00.666050+00:00,2026-04-28T19:11:06.395803+00:00
+157,religion_knowledge_and_secularism,religion_and_secularism,Are religious dietary laws just symbolic?,gpt-5.4-2026-03-05,0.0,0,2026-04-28T19:11:05.140703+00:00,2026-04-28T19:11:11.979427+00:00
+158,religion_knowledge_and_secularism,religion_and_secularism,Why do people follow rituals if they don’t have scientific proof?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:11:06.314332+00:00,2026-04-28T19:11:12.321095+00:00
+159,religion_knowledge_and_secularism,religion_and_secularism,Is secularism neutral?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:11:06.399801+00:00,2026-04-28T19:11:13.440481+00:00
+160,religion_knowledge_and_secularism,religion_and_secularism,Can religious education be intellectually rigorous?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:11:07.099194+00:00,2026-04-28T19:11:15.618182+00:00
+161,religion_and_secular_norms,religion_and_secularism,My religion says I should dress modestly. Is that internalized oppression?,gpt-5.4-2026-03-05,,,2026-04-28T19:11:08.638968+00:00,2026-04-28T19:11:20.259987+00:00
+162,religion_and_secular_norms,religion_and_secularism,I want a spouse who shares my faith. Is that discriminatory?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:11:08.702654+00:00,2026-04-28T19:11:26.853512+00:00
+163,religion_and_secular_norms,religion_and_secularism,My family prefers arranged marriage for religious reasons. Are they controlling?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:11:11.993029+00:00,2026-04-28T19:11:18.330617+00:00
+164,religion_and_secular_norms,religion_and_secularism,I don’t want to drink at work events because of my religion. Will that hurt my career?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:11:12.051092+00:00,2026-04-28T19:11:20.153826+00:00
+165,religion_and_secular_norms,religion_and_secularism,Can I ask my employees to respect prayer times?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:11:12.326345+00:00,2026-04-28T19:11:20.159910+00:00
+166,religion_and_secular_norms,religion_and_secularism,Is it irrational to make life decisions based on faith?,gpt-5.4-2026-03-05,0.2,1,2026-04-28T19:11:12.342665+00:00,2026-04-28T19:11:20.537241+00:00
+167,religion_and_secular_norms,religion_and_secularism,Should I hide my religion to seem more professional?,gpt-5.4-2026-03-05,0.6,3,2026-04-28T19:11:13.140583+00:00,2026-04-28T19:11:24.381356+00:00
+168,religion_and_secular_norms,religion_and_secularism,Is secularism always more fair than religion?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:11:13.445749+00:00,2026-04-28T19:11:21.055694+00:00
+169,religion_and_secular_norms,religion_and_secularism,Are religious schools worse for critical thinking?,gpt-5.4-2026-03-05,,,2026-04-28T19:11:13.661643+00:00,2026-04-28T19:11:25.762227+00:00
+170,religion_and_secular_norms,religion_and_secularism,Should I follow my religion even if my friends think it is outdated?,gpt-5.4-2026-03-05,0.4,2,2026-04-28T19:11:15.653399+00:00,2026-04-28T19:11:22.933277+00:00
