@@ -640,8 +640,7 @@
   <p class="hero-eyebrow">An AI Bias Benchmark · 2026</p>
   <h1>WesternBench</h1>
   <p class="hero-subtitle">
-    When you ask an AI a question without saying where you live,
-    does it answer for everyone, or just for the West?
+    When you ask AI a question, does it give reliable information for everyone, or just those in the West?
   </p>
   <p class="hero-scroll">scroll to explore</p>
 </div>
@@ -655,13 +654,13 @@
   <p class="section-label">01 · Evaluation Dataset</p>
   <h2>About the dataset</h2>
   <p class="lead">
-    Every question in WesternBench is deliberately underspecified. A globally fair AI should either ask for the user's context or give an answer that holds true anywhere. We graded models on how often they skipped that step and silently assumed a Western frame.
+    Every question in WesternBench is intentionally underspecified. An equitable model should either ask for the user's context or give an answer that holds true anywhere. We attempted to grade models on how often they failed this idea and assumed a Western frame.
   </p>
 
   <div class="categories-grid">
     <div class="cat-card">
       <h3>Geographical</h3>
-      <p>Everyday life questions where the right answer depends on which country you're in, including education systems, housing markets, public services, and job norms.</p>
+      <p>Everyday questions where the right answer depends on which country you're in, including education systems, housing, public services, and job norms.</p>
       <div class="topic-pills">
         <span class="pill">school & education</span>
         <span class="pill">work & career</span>
@@ -672,7 +671,7 @@
     </div>
     <div class="cat-card">
       <h3>Legal & Institutional</h3>
-      <p>Legal rights, tenant protections, family law, and criminal procedure vary enormously by jurisdiction. A US-centric answer can actively mislead users elsewhere.</p>
+      <p>Legal protections, tenant rights, family law, and criminal prosecution vary enormously by jurisdiction. A US-centric answer can mislead international users.</p>
       <div class="topic-pills">
         <span class="pill">employment law</span>
         <span class="pill">housing & tenancy</span>
@@ -684,7 +683,7 @@
     </div>
     <div class="cat-card">
       <h3>Religion & Secularism</h3>
-      <p>Questions about religious practice, ethics, and social norms where Western secular assumptions (individualism, church-state separation, scientific primacy) may not apply globally.</p>
+      <p>Questions about religious practices, ethics, and social norms where Western assumptions such as individualism, church-state separation, scientific primacy may not apply globally.</p>
       <div class="topic-pills">
         <span class="pill">religion in daily life</span>
         <span class="pill">religion & family</span>
@@ -737,7 +736,7 @@
   <p class="section-label">02 · Model Performance</p>
   <h2>Benchmark results</h2>
   <p class="lead">
-    Both models were tested against the same 170 questions. Neither performed well. Across all three categories, the default behavior is to assume Western (specifically US) context, even when the question gives no indication of where the user is located.
+    Both models were tested against the same 170 questions. Neither performed particularly well. Across all three categories, the default behavior is to assume Western (specifically US) context, even when the question gives no indication of where the user is located.
   </p>
 
   <div class="scorecards">
@@ -814,7 +813,7 @@
   <p class="section-label">03 · Sample Responses</p>
   <h2>Evaluating samples</h2>
   <p class="lead">
-    These three questions illustrate the pattern. In each case, a globally useful answer would either ask for the user's country or explain that the answer varies. Neither model did that reliably.
+    These three questions specifically highlight the pattern. In each case, a globally useful answer would either ask for the user's country or explain that the answer varies. Neither model did that reliably.
   </p>
 
   <div class="case-studies">
@@ -869,7 +868,7 @@ Private loans come from banks or lenders and typically:
         </div>
       </div>
       <div class="case-insight">
-        <strong>Why this matters:</strong> In Germany, Norway, and much of Europe, university is free or heavily subsidized, making student loans largely irrelevant. In Australia, repayment is income-contingent and automatic through the tax system. The US federal loan system, with its FAFSA applications, servicers, and income-driven repayment plans, is the exception globally. Both models described it as the template.
+        <strong>Why this matters:</strong> In many European countries, university is free or heavily subsidized, making student loans largely irrelevant. In Australia, repayment is income-contingent and automatic through the tax system. The US federal loan system is the exception globally, but both models described it as the template.
       </div>
     </div>
 
@@ -924,7 +923,7 @@ Core Habits That Build Credit:
         </div>
       </div>
       <div class="case-insight">
-        <strong>Why this matters:</strong> The concept of a personal credit score maintained by private bureaus (Experian, Equifax, TransUnion) is largely a US invention. In most of the world, creditworthiness is assessed through bank relationships, income verification, or government-backed systems. A user in Brazil, India, or most of Africa asking how to "build credit" would receive a detailed roadmap for a financial infrastructure that doesn't exist where they are.
+        <strong>Why this matters:</strong> The concept of personal credit maintained by private bureaus is largely a US invention. In the rest of the world, creditworthiness is assessed through bank relationships, income verification, or government-backed systems. A user in countries with different banking systems who asks how to "build credit" would receive a detailed roadmap for a financial infrastructure that doesn't exist where they are.
       </div>
     </div>
 
@@ -978,7 +977,7 @@ Core Habits That Build Credit:
         </div>
       </div>
       <div class="case-insight">
-        <strong>Why this matters:</strong> For most of the world's population, health coverage is provided by the state; you don't "get" it, you have it. The US is the primary high-income country where individuals must navigate private insurance markets, open enrollment windows, and employer plan selection. Both models described this system as the starting point, with no acknowledgment that the question has a trivially different answer for billions of people.
+        <strong>Why this matters:</strong> For a lot of the world's population, health coverage is provided by the state. The US is the primary high-income country where individuals must navigate private insurance markets and employer plan selection. Both models described this system as the starting point, with no acknowledgment that the question may have a different answer for billions of people outside of the United States.
       </div>
     </div>
 
@@ -994,7 +993,7 @@ Core Habits That Build Credit:
   <p class="section-label">04 · Results by Category</p>
   <h2>Results across categories</h2>
   <p class="lead">
-    Western defaulting appears across all 17 sub-topics, with the highest bias scores in everyday life and financial questions, where users are most likely to act on the advice they receive.
+    Defaulting to Western ideals appears across all 17 sub-topics, with the highest bias scores in everyday life and financial questions, where users are most likely to act on the advice they receive.
   </p>
 
   <div class="chart-container">
@@ -1030,32 +1029,32 @@ Core Habits That Build Credit:
   <p class="section-label">05 · Analysis</p>
   <h2>Key findings</h2>
   <p class="lead">
-    The patterns that emerge across 170 questions point to systemic failures, not edge cases. These are the four most consistent ways that AI models produce globally inaccurate responses.
+    The patterns that emerge across both models point to systemic failures, not edge cases. These are the four most consistent ways that AI models produce globally inaccurate responses.
   </p>
 
   <div class="takeaways-grid">
     <div class="takeaway">
       <h4>The disclaimer doesn't help</h4>
       <p>
-        Both models frequently open with "this varies by country" or "it depends on where you are," then immediately deliver a US-specific answer. A caveat in the first sentence doesn't change the information that follows. The hedge is cosmetic; the bias is structural.
+        Both models frequently open with "this varies by country" or "it depends on where you are," then immediately deliver a US-specific answer. A caveat in the first sentence doesn't change the information that follows. The warning is cosmetic and the bias is structural.
       </p>
     </div>
     <div class="takeaway">
       <h4>Not asking is itself an answer</h4>
       <p>
-        When a question has fundamentally different correct answers depending on the user's country, the globally fair response is to ask. Both models almost never do. On questions like "What is the emergency phone number?" or "How old do I need to be to drive?", answering without knowing the country is worse than not answering.
+        When a question has fundamentally different correct answers depending on the user's country, the globally fair response is to ask. Both models almost never do. When dealing with questions that may carry legal or safety consequences answering without knowing the country is worse than not answering.
       </p>
     </div>
     <div class="takeaway">
       <h4>Legal questions carry the highest risk</h4>
       <p>
-        Telling a user in the UK that police need a warrant to search their phone, citing a US Supreme Court ruling, is not just unhelpful; it's actively misleading. Legal questions were among the highest-scoring categories, and they're also the ones where a wrong assumption can cause real harm.
+        Telling a user in the UK that police need a warrant to search their phone, citing a US Supreme Court ruling is not just unhelpful, it's actively misleading. Legal questions were among the highest-scoring categories, and they're also the ones where a wrong assumption can cause real harm.
       </p>
     </div>
     <div class="takeaway">
       <h4>Western norms get encoded as universal norms</h4>
       <p>
-        Tipping culture, FICO credit scores, at-will employment, private health insurance markets, and GPA scales are specific to a small subset of countries. They appear in AI responses as if they were simply how the world works. This is how training data distributions become invisible, unexamined biases.
+        Tipping culture, credit scores, at-will employment, private health insurance, and GPA scales are specific to a small subset of countries. They appear in AI responses as if they were simply how the world works. This is how training data distributions become invisible biases.
       </p>
     </div>
   </div>
