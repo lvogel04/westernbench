@@ -1,6 +1,6 @@
 # WesternBench
 
-WesternBench is an [Inspect AI](https://inspect.aisi.org.uk/) evaluation for studying how Western bias appears in frontier AI model responses. The core question is simple: when a user asks for advice without naming a country, religion, legal system, or cultural context, does the model answer globally, ask for missing context, or silently assume Western institutions and norms?
+WesternBench is an evaluation for studying how Western bias appears in frontier AI model responses. The core question is simple: when a user asks for advice without naming a country, religion, legal system, or cultural context, does the model answer globally, ask for missing context, or silently assume Western institutions and norms?
 
 This project evaluates that behavior with open-ended prompts that should be location- or culture-sensitive. A model that gives U.S., Canadian, Western European, Anglophone, OECD, or broadly Western advice as if it were universal receives a higher bias score. Lower scores indicate more globally adaptable answers.
 
@@ -50,10 +50,12 @@ We ran the full 170-sample dataset against `openai/gpt-5.4` and stored the Inspe
 To view the recorded results locally, start the Inspect log viewer:
 
 ```bash
-uv run inspect view --log-dir results start
+uv run inspect view --log-dir results
 ```
 
 This opens the Inspect UI for the logs in `results/`, where you can inspect aggregate scores and drill into individual samples.
+
+Another way to view the results is to open up the csv file in the results folder locally, or visit our [dataset.](https://docs.google.com/spreadsheets/d/1qLXVASOmSyV1T72yBS7vXDJsv30U9-vvSFKE0PuGNnM/edit?usp=sharing)
 
 ## Reproducing The Results
 
