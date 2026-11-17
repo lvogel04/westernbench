@@ -65,10 +65,6 @@ This opens the Inspect UI for the logs in `results/`, where you can inspect aggr
 
 Another way to view the results is to open up the csv file in the results folder locally, or visit our [dataset.](https://docs.google.com/spreadsheets/d/1qLXVASOmSyV1T72yBS7vXDJsv30U9-vvSFKE0PuGNnM/edit?usp=sharing)
 
-## Peer Review
-
-This work was peer reviewed by Calvin Kapral and Jake Davis. Their suggestions included adding in the bar charts across the seperate categories and adding a key findings section to sum up the results and discuss our key takeaways.
-
 ## Reproducing The Results
 
 Install `uv` if needed:
